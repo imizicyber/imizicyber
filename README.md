@@ -15,7 +15,7 @@
 
 ---
 
-We are an offensive security consultancy based in **Kigali, Rwanda**. Our consultants hold **OSCP, OSCP+, and PNPT** certifications and have presented research at **BlackHat Europe**. We bring red team experience from European and African banking institutions including Danske Bank, ABSA Group, and Capitec.
+We are an offensive security consultancy based in **Kigali, Rwanda**. Our consultants hold **OSCP, OSCP+, and PNPT** certifications and have presented research at **BlackHat Europe**. We bring red team and panetration testing experience from elite European and African banking institutions.
 
 ### Services
 
